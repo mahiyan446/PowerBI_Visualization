@@ -9,3 +9,5 @@ This Power BI visual is a table displaying bottom-performing products by date. E
 
 # Dynamic line chart with Sales Growth 
 ![image](https://github.com/user-attachments/assets/c9d5f716-9977-43a5-8855-958acdf8a586)
+
+This dynamic line chart displaying total sales trends by month for the selected year. A KPI indicator at the top highlights a 14.19% increase in sales for 2018 compared to 2017, providing a quick year-over-year performance comparison.
