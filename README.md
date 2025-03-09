@@ -6,3 +6,6 @@ Showcasing advanced Power BI visualization skills, featuring dynamic line charts
 
 
 This Power BI visual is a table displaying bottom-performing products by date. Each row represents a specific date, listing the least-performing products along with their respective sales
+
+# Dynamic line chart with Sales Growth 
+![image](https://github.com/user-attachments/assets/c9d5f716-9977-43a5-8855-958acdf8a586)
