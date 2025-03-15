@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5109802a-c916-4083-a14b-8d51c371101b)![image](https://github.com/user-attachments/assets/1b14221a-0561-4daa-85b5-5330b7aff123)![image](https://github.com/user-attachments/assets/6fbd3cc5-97c4-463a-9716-2544d573679f)# PowerBI_Visualization
+# PowerBI_Visualization
 Showcasing advanced Power BI visualization skills, featuring dynamic line charts, card visuals, bullet charts, radar charts, and more.  Demonstrating proficiency in creating interactive and insightful dashboards for data-driven decision-making. 
 
 # Card Visualization
