@@ -11,11 +11,10 @@ Showcasing advanced Power BI visualization skills, featuring dynamic line charts
 
 ### This Power BI visual presents a year-over-year percentage change in sales across various sports categories. The chart highlights both growth and decline,
 
-
-
+# Time-Based Trend Analysis Dashboard
 
 https://github.com/user-attachments/assets/3115766c-6dc6-43b3-a4a1-155922b64306
-
+### This Power BI visualization is a time-series bar chart displaying the number of new followers over a selected time range (1W, 1M, 3M, TY, 1Y, ALL). It allows users to analyze follower growth patterns over different periods, helping in trend identification and engagement tracking.
 
 
 # Dynamic line chart with Sales Growth 
