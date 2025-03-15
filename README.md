@@ -12,6 +12,12 @@ Showcasing advanced Power BI visualization skills, featuring dynamic line charts
 ### This Power BI visual presents a year-over-year percentage change in sales across various sports categories. The chart highlights both growth and decline,
 
 
+
+
+https://github.com/user-attachments/assets/3115766c-6dc6-43b3-a4a1-155922b64306
+
+
+
 # Dynamic line chart with Sales Growth 
 ![image](https://github.com/user-attachments/assets/c9d5f716-9977-43a5-8855-958acdf8a586)
 
